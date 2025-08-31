@@ -1,7 +1,22 @@
 https://www.raspberrypi.com
 
+<<<<<<< Updated upstream
 # 安裝燒錄軟體
 <img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/fb214da6-84a1-4e6f-b1e0-f5bbb16db470" />
+=======
+#安裝燒錄程式
+<img width="900" height="600" alt="image" src="https://github.com/user-attachments/assets/fb214da6-84a1-4e6f-b1e0-f5bbb16db470" />
+
+
+#燒錄設定
+![alt text](image.png)
+
+
+pi4jing0922.local
+SSH 
+
+
+>>>>>>> Stashed changes
 
 # 設定
 <img width="681" height="475" alt="image" src="https://github.com/user-attachments/assets/3afb3474-9990-4446-8f79-89fc034688a3" />
