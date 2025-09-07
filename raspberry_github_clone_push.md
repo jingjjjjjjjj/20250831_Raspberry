@@ -53,11 +53,15 @@ gh auth login
 - copy one-time code
 - copy webside url to Chrome or Safari
 4. 完成驗證畫面（可能會需要等待一陣子...）
-![](images/pic4.png)
+
+
+![](images/pic5.png)
+
 5. Clone repo
 ```bash
-gh repo clone jingjjjjjjjj/__test__
+gh repo clone 
 ```
+
 ![](images/pic4.png)
 
 
