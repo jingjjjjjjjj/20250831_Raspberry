@@ -2,8 +2,10 @@
 1. 創建repo
 2. 進入repo 頁面
 ![](images/pic2.png)
-3. 複製https version url 
+3. 複製https version url
+
 ![](images/pic3.png)
+
 4. clone repo
 ```bash
 git clone github url
@@ -51,11 +53,15 @@ gh auth login
 - copy one-time code
 - copy webside url to Chrome or Safari
 4. 完成驗證畫面（可能會需要等待一陣子...）
-![](images/pic4.png)
+
+
+![](images/pic5.png)
+
 5. Clone repo
 ```bash
-gh repo clone jingjjjjjjjj/__test__
+gh repo clone 
 ```
+
 ![](images/pic4.png)
 
 

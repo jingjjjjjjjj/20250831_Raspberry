@@ -117,6 +117,7 @@ nano 檔案名稱
 
 ### 編輯 bashrc 文件
 vim ~/.bashrc
+
 ![](images/pic1.png)
 # 更改環境變數
 ```bash
