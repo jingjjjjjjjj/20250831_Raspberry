@@ -2,7 +2,8 @@
 1. 創建repo
 2. 進入repo 頁面
 ![](images/pic2.png)
-3. 複製https version url 
+3. 複製https version url
+
 ![](images/pic3.png)
 4. clone repo
 ```bash
