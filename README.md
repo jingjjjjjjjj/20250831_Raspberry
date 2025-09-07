@@ -71,7 +71,7 @@ user --> .ssh --> known_hosts
 <img width="189" height="103" alt="image" src="https://github.com/user-attachments/assets/4d296779-ae31-4b35-85b5-bec9c7556f2a" />
 
 # Warp
-
+ssh pi@主機名.local
 
 
 
