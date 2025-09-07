@@ -90,10 +90,56 @@ sudo apt-get update
 sudo apt-get upgrade
 ```
 
+### 查詢編輯器版本
+```bash
+nano --version
+```
+```bash
+vi --version
+```
+```bash
+vim --version
+```
+### 進入編輯器修改檔案
+```bash
+nano 檔案名稱
+```
+### 編輯模式
+- Normal 模式
+    - :w 存檔
+    - :q 離開
+    - :wq 存檔＋離開
+- Insert 模式
+    - i insert 
+    - a append
+    - o new line
+    - esc or ctrl+[ 離開編輯模式
 
-
+### 編輯 bashrc 文件
+vim ~/.bashrc
+![](images/pic1.png)
+# 更改環境變數
+```bash
+export VISUAL=
+```
+```bash
+export EDITOR=
+```
+### 套用環境變數
+```bash
+source ~/.bashrc
+```
 ### 離開vim
 ctrl+c --> :qa --> enter
+### 查詢現用環境變數
+```bash
+echo $VISUAL
+```
+### 進程管理系統
+```bash
+htop
+```
+
 
 ### 絕對路徑 
 /home/pi
